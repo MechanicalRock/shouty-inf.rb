@@ -6,6 +6,9 @@ group :test do
   gem "rspec"
   gem "rest-client"
   gem "rack-test"
+
+  gem "serverspec"
+  gem "docker-api"
 end
 
 gem 'sinatra'
