@@ -4,4 +4,8 @@ group :test do
   gem "rake"
   gem "cucumber"
   gem "rspec"
+  gem "rest-client"
+  gem "rack-test"
 end
+
+gem 'sinatra'
