@@ -34,3 +34,17 @@ Build your Development Environment:
 Start your dev environment:
 
    `$ docker-compose run --rm dev-env`
+
+## App Development
+
+Working dir:
+   `$> cd /app/shouty_app`
+
+Install Dependencies:
+   `$> bundle install`
+
+Build the docker container:
+   `docker build .`
+   
+Run the tests
+   `$> rake test`
