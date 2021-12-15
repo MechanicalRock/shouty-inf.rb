@@ -1,3 +1,5 @@
+**Note** - This repository is not maintained.  It probably has security vulnerabilities - it should not be used for production use.
+
 # Shouty-inf.rb
 
 Shouty is a social networking application for short physical distances.
