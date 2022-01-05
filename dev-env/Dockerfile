@@ -1,4 +1,4 @@
-FROM ruby:2.4.1
+FROM ruby:2.7.3
 
 WORKDIR /setup
 COPY Gemfile .
